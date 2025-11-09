@@ -1,9 +1,8 @@
 #Variable declaration
 hours = 2
-seconds_in_an_hour = 3600
 
 #Seconds calculation
-seconds = seconds_in_an_hour * hours
+seconds =  hours * 3600
 
 #Output
 print(hours,"hour(s) is", seconds,"seconds.")
